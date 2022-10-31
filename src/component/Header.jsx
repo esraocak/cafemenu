@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className="title"> Code Fraternity Cafe Menu </div>
+    <div className="header"> Code Diares Cafe Menu </div>
     
   )
 }
