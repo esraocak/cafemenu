@@ -13,13 +13,13 @@ Build an Cafe Menu App using ReactJS.
 
 ### Used in the project
 
--HTML
+- HTML
 
--CSS
+- CSS
 
--JS
+- JS
 
--ReactJS
+- ReactJS
 
 
 
